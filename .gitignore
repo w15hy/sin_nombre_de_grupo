@@ -1,0 +1,15 @@
+# Archivos temporales
+*.tmp
+*.log
+
+# Dependencias de Node.js
+node_modules/
+
+# Entornos virtuales de Python
+.venv/
+
+# Configuración de VS Code
+.vscode/
+
+# Archivos de sistema
+__pycache__/
