@@ -13,3 +13,6 @@ node_modules/
 
 # Archivos de sistema
 __pycache__/
+Asignaciones/build/
+Asignaciones/latexmkrc
+Asignaciones/tmp/
